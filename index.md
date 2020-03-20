@@ -1,16 +1,25 @@
 ---
 layout: default
-title: "Wonseo Mo"
+title: "Jihye Leee"
 main: true
-subtitle: Data Analyst
-description: Wonseo mo, who is a data Analyst based in Seoul, South Korea. | '모원서' 데이터 분석가입니다.
+subtitle: Digital Product Designer Jihye Leee at RIDI
+description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    Data Analyst,
+    I'm Jihye Leee,
     </h1>
-    <h1 class="intro">데이터 분석가 '모원서' 입니다. </h1>
+    <h1 class="intro">a Digital Product Designer at
+        <div class="intro-link">
+            <a class="transition" href="http://ridicorp.com/" target="_blank">
+                RIDI
+            </a>
+            <div class="underline-mask transition"></div>
+            <div class="underline"></div>
+        </div>.
+    </h1>
+    <h2 class="intro">'이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.</h2>
 </section>
 </div>
 {% include resume.html %}
