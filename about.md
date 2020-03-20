@@ -38,5 +38,5 @@ Data Driven Marketing 회사에서 SQL을 배웠으며,
 
 # Site
 
-### 교육: 탈잉(https://taling.me/Talent/Detail/13449)
-### 출판: 한 권으로 배우는 데이터 분석(https://bjpublic.tistory.com/)
+### ✔ 교육: 탈잉(https://taling.me/Talent/Detail/13449)
+### ✔ 출판: 한 권으로 배우는 데이터 분석(https://bjpublic.tistory.com/)
