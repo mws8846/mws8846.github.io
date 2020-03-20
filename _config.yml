@@ -1,4 +1,4 @@
-title:              Clean Blog
+title:              Mong Blog
 email:              mws8846l@gmail.com
 description:        Knowledge Sharing
 author:             MOWONSEO
@@ -6,10 +6,10 @@ baseurl:            ""
 url:                "https://mws.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
-linkedin_username:
+twitter_username:   mws8846
+github_username:    mws8846
+facebook_username:  mws8846
+linkedin_username:  mws8846
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
