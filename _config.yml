@@ -1,24 +1,28 @@
-title:              Mong Blog
-email:              mws8846l@gmail.com
-description:        Knowledge Sharing
-author:             MOWONSEO
-baseurl:            ""
-url:                "https://mws.github.io"
+# Permalinks
+permalink:      /:year-:month-:day/:title
 
-# Social Profiles
-twitter_username:   mws8846
-github_username:    mws8846
-facebook_username:  mws8846
-linkedin_username:  mws8846
+# Setup
+title:          Jihye Leee
+baseurl:        ""
+url:            "http://www.jihyeleee.com"
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+markdown:       kramdown
+
+# About
+author:
+  name:         Jihye Leee
+  url:          http://jihyeleee.com/
+  email:        iam.leejihye@gmail.com  
+  github:       iamleejihye
+  twitter:      playpingpong
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/iamleejihye/iamleejihye.github.io
