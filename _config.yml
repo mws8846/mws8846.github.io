@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Wonseo MO
+title:          Wonseo mo
 baseurl:        ""
 url:            "http://mws8846.github.io"
 
@@ -16,7 +16,7 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Wonseo MO
+  name:         Wonseo Mo
   url:          http://mws8846.github.io
   email:        mws8846@gmail.com
   github:       mws8846
