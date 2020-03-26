@@ -7,9 +7,9 @@ description: 데이터 분석가입니다.
 ---
 <div class="intro-animation">
 <section class="explanation">
-    <h1 class="intro">
-    모원서, 데이터 분석 자료를 기록하고 공유하는 데이터 분석가입니다.
-    </h1>
+    <h4 class="intro">
+    데이터 분석에 대한 지식을 공유하는 데이터 분석가입니다.
+    </h4>
 </section>
 </div>
 {% include resume.html %}
