@@ -4,8 +4,8 @@ work: true
 main: true
 title: Book recommendation
 description: 좋은 책 지식 공유!
-project-header: true
-header-img: "img/project_bg.jpg"
+post-header: true
+header-img: "img/book.jpg"
 ---
 
 <div class="catalogue">

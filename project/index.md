@@ -4,7 +4,7 @@ work: true
 main: true
 title: Selected Projects
 description: 지금까지 작업한 프로젝트
-project-header: true
+post-header: true
 header-img: "img/analyst.jpg"
 ---
 
