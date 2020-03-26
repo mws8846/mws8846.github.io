@@ -8,6 +8,7 @@ text: true
 author: "Wonseo mo"
 post-header: true
 header-img: "img/header.jpg"
+main-img: "img/about.jpg"
 order: 9
 ---
 
