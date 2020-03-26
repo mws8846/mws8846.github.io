@@ -9,10 +9,10 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/analyst.jpg"
-main-img: "img/analyst.jpg"
+header-img: "img/tableau.jpg"
+main-img: "img/tableau.jpg"
 role-title: "데이터 분석가"
-role-specific: "User flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping"
+role-specific: "BI"
 team: "4명"
 platforms: "SQL 및 Tableau"
 date: "Sep 2019 - Dec 2019"
@@ -29,7 +29,7 @@ order: 1
 
 이미지 올리기
 
-![분석 사진 이미지](img/analyst.jpg)
+![분석 사진 이미지](img/tableau.png)
 
 ###### 페이스북 [^1]
 
