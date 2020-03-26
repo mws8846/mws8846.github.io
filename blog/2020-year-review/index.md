@@ -1,5 +1,6 @@
 ---
 layout: post
+author: "Wonseo Mo"
 title:  "2020년 연말 정산"
 subtitle: "올 한 해 나는 무엇을 했나 🤔"
 type: "Year in Review"
