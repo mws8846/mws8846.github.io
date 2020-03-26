@@ -2,10 +2,10 @@
 layout: default
 title: "Wonseo MO"
 main: true
-subtitle:
+subtitle: Knowledge Sharing
 description: 데이터 분석가입니다.
 ---
-<div class="intro-animation">
+<div class="intro">
 <section class="explanation">
     <h4 class="intro">
     <p>데이터 분석에 대한 지식을 공유하는</p>
