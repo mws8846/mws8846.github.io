@@ -8,8 +8,8 @@ description: 데이터 분석가입니다.
 <div class="intro-animation">
 <section class="explanation">
     <h4 class="intro">
-    <p>데이터 분석에 대한 지식을 공유하는
-    <p>데이터 분석가입니다.
+    <p>데이터 분석에 대한 지식을 공유하는</p>
+    <p>데이터 분석가입니다.</p>
     </h4>
 </section>
 </div>
