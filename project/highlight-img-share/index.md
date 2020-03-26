@@ -9,8 +9,8 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/tableau.jpg"
-main-img: "img/tableau.jpg"
+header-img: "img/tableau.png"
+main-img: "img/tableau.png"
 role-title: "데이터 분석가"
 role-specific: "BI"
 team: "4명"
