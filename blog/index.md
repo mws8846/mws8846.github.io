@@ -8,7 +8,7 @@ project-header: true
 header-img: img/about.jpg
 ---
 
-<ul class="catalogue">
+<div class="catalogue">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
 {% if page.blog == true %}
@@ -17,4 +17,4 @@ header-img: img/about.jpg
 
 {% endif %}
 {% endfor %}
-</ul>
+</div>
