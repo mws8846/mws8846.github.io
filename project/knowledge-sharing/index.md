@@ -10,7 +10,6 @@ ridi: true
 portfolio: true
 post-header: true
 header-img: "img/test.jpg"
-main-img: "img/analyst.jpg"
 role-title: "데이터 분석가"
 role-specific: "BI"
 team: "4명"
